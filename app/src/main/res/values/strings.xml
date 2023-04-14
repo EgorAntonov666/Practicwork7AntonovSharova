@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Practicwork7</string>
+    <string name="textView">Иван</string>
+    <string name="textView2">приветствуем в нашем приложении</string>
+    <string name="textView4">Инокентий</string>
+    <string name="textView3">Иван</string>
+    <string name="textView5">Егор</string>
+    <string name="textView6">Бэнжами</string>
+    <string name="textView7">Жасмин</string>
+    <string name="textView8">Хасбик</string>
+    <string name="button">йпийоу</string>
+    <string name="textView9">Предложения руки и сердца</string>
+    <string name="button9">Любить</string>
+    <string name="button10">Дружить</string>
+    <string name="textView11">Более подробная информация</string>
+    <string name="textView13">Регистрация</string>
+    <string name="textView14">Помощь</string>
+    <string name="textView15">Вход</string>
+    <string name="textView16">Введите ваше имя</string>
+    <string name="textView17">Введите вашу фамилию</string>
+    <string name="textView18">Введите ваш контактный номер</string>
+    <string name="button2">Зарегистрироваться</string>
+    <string name="checkBox">Согласен(-а) с условиями использованиz политикой конфидециальности</string>
+</resources>
